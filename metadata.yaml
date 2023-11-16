@@ -1,11 +1,16 @@
 _repo: Engineering-reminiscences-contributed-to-Power-and-American-machinist_72043
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72043-h/images/cover.jpg
 creator:
   author:
     agent_name: Porter, Charles T.
     gutenberg_agent_id: '56514'
     url: http://www.gutenberg.org/2009/agents/56514
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72043#Engineering-reminiscences-contributed-to-Power-and-American-machinist
 gutenberg_issued: '2023-11-05'
 identifiers:
   gutenberg: '72043'
